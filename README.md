@@ -44,3 +44,7 @@
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=valen2510&show_icons=true&locale=en&layout=compact&theme=dracula&line_height=0" />
 </a>
 </p>
+<br/>
+<br/>
+
+![alt-text](https://github.com/valen2510/valen2510/blob/master/footer%20tech.gif)
