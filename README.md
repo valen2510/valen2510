@@ -34,7 +34,7 @@
 ### 📈 Github Stats:
 <p align="center">
 <a href="https://github.com/valen2510">
-<img align="center" alt="valen's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=valen2510&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" /></a>
+<img align="center" alt="valen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=valen2510&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=dracula" /></a>
 <a href="https://github.com/valen2510">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=valen2510&layout=compact&langs_count=8&theme=dracula" />
 </a>
